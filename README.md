@@ -43,7 +43,7 @@ Ready to revitalize your PC? Follow these simple steps to download, set up, and 
 
 ### Step 1: Download Your Scyther Essentials
 
-To begin, you'll need two key files from our GitHub Releases page. Head over to the [Scyther Cleaner Releases](https://www.google.com/search?q=https://github.com/RookieEnough/Scyther-Cleaner/releases) and download the latest versions of:
+To begin, you'll need two key files from our GitHub Releases page. Head over to the [Scyther Cleaner Releases](https://github.com/RookieEnough/Scyther-Cleaner/releases) and download the latest versions of:
 
 1.  **`Scyther.exe`** (The main cleaning application)
 2.  **`updater by RookieZ.exe`** (The smart update utility)
