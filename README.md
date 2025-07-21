@@ -2,6 +2,9 @@
 
 ## 🚀 Reclaim Your PC's Potential. Fast, Thorough, and Effortless Windows Optimization.
 
+
+Scyther.PNG
+
 Scyther Cleaner is your go-to, open-source solution for deep system cleaning and optimization on Windows. Designed to meticulously purge unnecessary files and streamline your operating system, Scyther empowers you to recover valuable disk space, enhance performance, and maintain a healthier, snappier PC.
 
 **Why Scyther Cleaner?**
