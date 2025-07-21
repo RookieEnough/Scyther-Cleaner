@@ -33,8 +33,50 @@ Scyther goes beyond basic cleanup, targeting various sources of system slowdown 
 * **🎮 DirectX Shader Cache:** Clears DirectX shader cache for gaming performance maintenance.
 * **✨ Comprehensive "Clean Everything" Option:** A single click to perform all major cleaning operations for maximum impact.
 
-**Get Started:**
+Okay, here's an attractive and clear "How to Use" guide for your Scyther Cleaner repository, designed to be easy to follow and highlight the key aspects you mentioned\!
 
-Download the latest release and run `Scyther.exe` as an administrator to begin optimizing your Windows system today!
+-----
 
----
+### 🚀 Get Started: How to Use Scyther Cleaner
+
+Ready to revitalize your PC? Follow these simple steps to download, set up, and unleash the power of Scyther Cleaner\!
+
+### Step 1: Download Your Scyther Essentials
+
+To begin, you'll need two key files from our GitHub Releases page. Head over to the [Scyther Cleaner Releases](https://www.google.com/search?q=https://github.com/RookieEnough/Scyther-Cleaner/releases) and download the latest versions of:
+
+1.  **`Scyther.exe`** (The main cleaning application)
+2.  **`updater by RookieZ.exe`** (The smart update utility)
+
+### Step 2: Create Your Scyther Home 📂
+
+To keep things organized and ensure updates work perfectly, create a brand-new, dedicated folder anywhere on your computer (e.g., on your Desktop, in your Documents, or directly on your C: drive).
+
+  * **Example:** Create a folder named `Scyther Cleaner`
+
+### Step 3: Place Your Files Together
+
+Now, simply move both `Scyther.exe` and `updater by RookieZ.exe` into the `Scyther Cleaner` folder you just created.
+
+  * **Crucial Note:** It's vital that both files are in the **same folder** for Scyther's auto-update feature to function correctly.
+
+### Step 4: Launch and Optimize\! ✨
+
+You're all set\! Double-click on **`Scyther.exe`** to launch the application.
+
+  * **Administrator Rights:** Scyther Cleaner will automatically prompt you for administrator permissions. This is essential for it to access and clean system-level files thoroughly. Grant the permission when asked.
+  * Follow the on-screen menu to select your desired cleaning operations or choose the powerful "CLEAN EVERYTHING" option for a full system refresh\!
+
+-----
+
+### ⭐ Important Updater Note\! ⭐
+
+**You only need to download `updater by RookieZ.exe` ONCE.**
+
+Once it's in the same folder as `Scyther.exe`, the updater will automatically handle all future updates to Scyther Cleaner. This means you won't have to manually download new versions of `Scyther.exe` ever again – just run `Scyther.exe`, and it will take care of the rest\!
+
+-----
+
+### Pro-Tip: Pin It\! 📌
+
+For quick access, right-click on `Scyther.exe` in your `Scyther Cleaner` folder and select "Pin to Start" or "Pin to Taskbar." This makes launching your cleaning tool super convenient whenever you need it\!
