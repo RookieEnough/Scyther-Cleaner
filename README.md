@@ -1,9 +1,4 @@
 # Scyther-Cleaner
-Here's a very professional and catchy description for your Scyther Cleaner GitHub repository, highlighting its utility and key features:
-
----
-
-# Scyther Cleaner
 
 ## 🚀 Reclaim Your PC's Potential. Fast, Thorough, and Effortless Windows Optimization.
 
@@ -13,7 +8,10 @@ Scyther Cleaner is your go-to, open-source solution for deep system cleaning and
 
 * **Unleash Hidden Performance:** By eliminating digital clutter, Scyther helps restore your system's responsiveness and overall speed, making your computing experience smoother.
 * **Massive Space Recovery:** Say goodbye to wasted gigabytes! Scyther dives deep to free up significant disk space occupied by temporary files, outdated updates, and various caches.
-* **Automated & Secure Updates:** Stay current with the latest optimizations. Scyther features a robust, built-in updater that ensures you always have the most effective cleaning routines without manual hassle.
+* **Seamless, Automated Updates:**
+    * **Always Up-to-Date:** Scyther automatically checks for the latest version upon launch.
+    * **Effortless Upgrade:** If an update is available, Scyther securely launches a separate, dedicated updater tool. This updater handles the termination of the main application, downloads the new version, replaces the old executable, and even cleans up any temporary update files, ensuring a smooth, hands-off upgrade process.
+    * You'll always have the most effective cleaning routines and latest features without manual hassle.
 * **Simple & Intuitive:** No complex configurations or cryptic commands. Scyther's straightforward menu-driven interface makes powerful system cleaning accessible to everyone.
 * **Transparent & Open-Source:** Built with Python, Scyther Cleaner's code is fully open and auditable, fostering trust and community contributions.
 
