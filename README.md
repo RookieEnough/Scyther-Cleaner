@@ -33,8 +33,6 @@ Scyther goes beyond basic cleanup, targeting various sources of system slowdown 
 * **🎮 DirectX Shader Cache:** Clears DirectX shader cache for gaming performance maintenance.
 * **✨ Comprehensive "Clean Everything" Option:** A single click to perform all major cleaning operations for maximum impact.
 
-Okay, here's an attractive and clear "How to Use" guide for your Scyther Cleaner repository, designed to be easy to follow and highlight the key aspects you mentioned\!
-
 -----
 
 ### 🚀 Get Started: How to Use Scyther Cleaner
